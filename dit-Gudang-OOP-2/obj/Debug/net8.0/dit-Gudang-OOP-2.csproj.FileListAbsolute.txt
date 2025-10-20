@@ -1,0 +1,15 @@
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\obj\Debug\net8.0\dit-Gudang-OOP-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\obj\Debug\net8.0\dit-Gudang-OOP-2.AssemblyInfoInputs.cache
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\obj\Debug\net8.0\dit-Gudang-OOP-2.AssemblyInfo.cs
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\obj\Debug\net8.0\dit-Gudang-OOP-2.csproj.CoreCompileInputs.cache
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\obj\Debug\net8.0\dit-Gudang-OOP-2.sourcelink.json
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\bin\Debug\net8.0\dit-Gudang-OOP-2.exe
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\bin\Debug\net8.0\dit-Gudang-OOP-2.deps.json
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\bin\Debug\net8.0\dit-Gudang-OOP-2.runtimeconfig.json
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\bin\Debug\net8.0\dit-Gudang-OOP-2.dll
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\bin\Debug\net8.0\dit-Gudang-OOP-2.pdb
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\obj\Debug\net8.0\dit-Gudang-OOP-2.dll
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\obj\Debug\net8.0\refint\dit-Gudang-OOP-2.dll
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\obj\Debug\net8.0\dit-Gudang-OOP-2.pdb
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\obj\Debug\net8.0\dit-Gudang-OOP-2.genruntimeconfig.cache
+C:\Users\LABKOM-VOKASI\source\repos\pemrogamman-2-pbo-net\dit-Gudang-OOP-2\dit-Gudang-OOP-2\obj\Debug\net8.0\ref\dit-Gudang-OOP-2.dll

@@ -1,0 +1,14 @@
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\obj\Debug\net8.0\dit-Gudang-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\obj\Debug\net8.0\dit-Gudang-OOP.AssemblyInfoInputs.cache
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\obj\Debug\net8.0\dit-Gudang-OOP.AssemblyInfo.cs
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\obj\Debug\net8.0\dit-Gudang-OOP.csproj.CoreCompileInputs.cache
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\bin\Debug\net8.0\dit-Gudang-OOP.exe
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\bin\Debug\net8.0\dit-Gudang-OOP.deps.json
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\bin\Debug\net8.0\dit-Gudang-OOP.runtimeconfig.json
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\bin\Debug\net8.0\dit-Gudang-OOP.dll
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\bin\Debug\net8.0\dit-Gudang-OOP.pdb
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\obj\Debug\net8.0\dit-Gudang-OOP.dll
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\obj\Debug\net8.0\refint\dit-Gudang-OOP.dll
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\obj\Debug\net8.0\dit-Gudang-OOP.pdb
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\obj\Debug\net8.0\dit-Gudang-OOP.genruntimeconfig.cache
+C:\Users\LABKOM-VOKASI\source\repos\dit-Gudang-OOP\dit-Gudang-OOP\obj\Debug\net8.0\ref\dit-Gudang-OOP.dll
