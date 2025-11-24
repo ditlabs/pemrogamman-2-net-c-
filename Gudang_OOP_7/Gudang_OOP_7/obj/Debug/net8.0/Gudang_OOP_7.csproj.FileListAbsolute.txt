@@ -1,0 +1,4 @@
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_7\Gudang_OOP_7\obj\Debug\net8.0\Gudang_OOP_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_7\Gudang_OOP_7\obj\Debug\net8.0\Gudang_OOP_7.AssemblyInfoInputs.cache
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_7\Gudang_OOP_7\obj\Debug\net8.0\Gudang_OOP_7.AssemblyInfo.cs
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_7\Gudang_OOP_7\obj\Debug\net8.0\Gudang_OOP_7.csproj.CoreCompileInputs.cache

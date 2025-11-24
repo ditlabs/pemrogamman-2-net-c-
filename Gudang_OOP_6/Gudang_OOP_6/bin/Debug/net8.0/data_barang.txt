@@ -1,0 +1,7 @@
+Kode	Nama	Stok	Kategori
+001	Motor	1	Kendaraan
+B001	Laptop	30	Elektronik
+B002	Smartphone	60	Elektronik
+B003	Kulkas	20	Elektronik
+B004	Televisi	10	Elektronik
+B005	Mesin Cuci	5	Elektronik

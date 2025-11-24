@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\StokNegatifException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gudang_OOP_6\\Models\\StokNegatifException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\BarangElektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gudang_OOP_6\\Models\\BarangElektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\Barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gudang_OOP_6\\Models\\Barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\ItemGudang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gudang_OOP_6\\Models\\ItemGudang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\IPeriksaKadaluarsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gudang_OOP_6\\Models\\IPeriksaKadaluarsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\BarangMakanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gudang_OOP_6\\Models\\BarangMakanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\BarangKimia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gudang_OOP_6\\Models\\BarangKimia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gudang_OOP_6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemGudang.cs",
+              "DocumentMoniker": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\ItemGudang.cs",
+              "RelativeDocumentMoniker": "Gudang_OOP_6\\Models\\ItemGudang.cs",
+              "ToolTip": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\ItemGudang.cs",
+              "RelativeToolTip": "Gudang_OOP_6\\Models\\ItemGudang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:19:23.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPeriksaKadaluarsa.cs",
+              "DocumentMoniker": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\IPeriksaKadaluarsa.cs",
+              "RelativeDocumentMoniker": "Gudang_OOP_6\\Models\\IPeriksaKadaluarsa.cs",
+              "ToolTip": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\IPeriksaKadaluarsa.cs",
+              "RelativeToolTip": "Gudang_OOP_6\\Models\\IPeriksaKadaluarsa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:19:19.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarangMakanan.cs",
+              "DocumentMoniker": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\BarangMakanan.cs",
+              "RelativeDocumentMoniker": "Gudang_OOP_6\\Models\\BarangMakanan.cs",
+              "ToolTip": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\BarangMakanan.cs",
+              "RelativeToolTip": "Gudang_OOP_6\\Models\\BarangMakanan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:19:11.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarangKimia.cs",
+              "DocumentMoniker": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\BarangKimia.cs",
+              "RelativeDocumentMoniker": "Gudang_OOP_6\\Models\\BarangKimia.cs",
+              "ToolTip": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\BarangKimia.cs",
+              "RelativeToolTip": "Gudang_OOP_6\\Models\\BarangKimia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:19:06.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarangElektronik.cs",
+              "DocumentMoniker": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\BarangElektronik.cs",
+              "RelativeDocumentMoniker": "Gudang_OOP_6\\Models\\BarangElektronik.cs",
+              "ToolTip": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\BarangElektronik.cs",
+              "RelativeToolTip": "Gudang_OOP_6\\Models\\BarangElektronik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:18:48.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\Barang.cs",
+              "RelativeDocumentMoniker": "Gudang_OOP_6\\Models\\Barang.cs",
+              "ToolTip": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\Barang.cs",
+              "RelativeToolTip": "Gudang_OOP_6\\Models\\Barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:16:05.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StokNegatifException.cs",
+              "DocumentMoniker": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\StokNegatifException.cs",
+              "RelativeDocumentMoniker": "Gudang_OOP_6\\Models\\StokNegatifException.cs",
+              "ToolTip": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Models\\StokNegatifException.cs",
+              "RelativeToolTip": "Gudang_OOP_6\\Models\\StokNegatifException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:15:51.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Program.cs",
+              "RelativeDocumentMoniker": "Gudang_OOP_6\\Program.cs",
+              "ToolTip": "D:\\Kuliah\\PBO\\Dit_Gudang_OOP\\Gudang_OOP_6\\Gudang_OOP_6\\Program.cs",
+              "RelativeToolTip": "Gudang_OOP_6\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:15:26.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

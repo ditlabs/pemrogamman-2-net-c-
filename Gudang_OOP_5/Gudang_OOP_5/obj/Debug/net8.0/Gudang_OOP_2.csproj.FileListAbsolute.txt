@@ -1,0 +1,14 @@
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\bin\Debug\net8.0\Gudang_OOP_2.exe
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\bin\Debug\net8.0\Gudang_OOP_2.deps.json
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\bin\Debug\net8.0\Gudang_OOP_2.runtimeconfig.json
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\bin\Debug\net8.0\Gudang_OOP_2.dll
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\bin\Debug\net8.0\Gudang_OOP_2.pdb
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\obj\Debug\net8.0\Gudang_OOP_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\obj\Debug\net8.0\Gudang_OOP_2.AssemblyInfoInputs.cache
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\obj\Debug\net8.0\Gudang_OOP_2.AssemblyInfo.cs
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\obj\Debug\net8.0\Gudang_OOP_2.csproj.CoreCompileInputs.cache
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\obj\Debug\net8.0\Gudang_OOP_2.dll
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\obj\Debug\net8.0\refint\Gudang_OOP_2.dll
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\obj\Debug\net8.0\Gudang_OOP_2.pdb
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\obj\Debug\net8.0\Gudang_OOP_2.genruntimeconfig.cache
+D:\Kuliah\PBO\Dit_Gudang_OOP\Gudang_OOP_2\Gudang_OOP_2\obj\Debug\net8.0\ref\Gudang_OOP_2.dll
